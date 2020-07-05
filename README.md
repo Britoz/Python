@@ -8,18 +8,18 @@ This repository is created for keeping track the Python learning procgress.
 	* 2nd 2 weeks: Small projects for bundles of knowledge
 
 ## Knowledge path
-- [] Python Essential Training - [PUT HOURS HERE]
-- [] Python OOP - [PUT HOURS HERE]
-- [] Advanced Python - [PUT HOURS HERE]
-- [] Python for data analysis - [PUT HOURS HERE]
-- [] Python for visualisation - [PUT HOURS HERE]
-- [] Using Python for automation - [PUT HOURS HERE]
-- [] Data science foundation: Data Mining - [PUT HOURS HERE] 
+- [ ] Python Essential Training - [PUT HOURS HERE]
+- [ ] Python OOP - [PUT HOURS HERE]
+- [ ] Advanced Python - [PUT HOURS HERE]
+- [ ] Python for data analysis - [PUT HOURS HERE]
+- [ ] Python for visualisation - [PUT HOURS HERE]
+- [ ] Using Python for automation - [PUT HOURS HERE]
+- [ ] Data science foundation: Data Mining - [PUT HOURS HERE] 
 
 ## Tasks
-1. Python programming bundle
-2. Crawling data with python
-3. Data analysis and visualisation
+- [ ] Python programming bundle
+- [ ] Crawling data with python
+- [ ] Data analysis and visualisation
 
 ## Folder structure
 * learning - This folder stores everything related to the 1st 2 weeks
