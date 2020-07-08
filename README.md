@@ -8,10 +8,10 @@ This repository is created for keeping track the Python learning procgress.
 	* 2nd 2 weeks: Small projects for bundles of knowledge
 
 ## Knowledge path
-- [ ] Python Essential Training - [PUT HOURS HERE]
-- [ ] Python OOP - [PUT HOURS HERE]
-- [ ] Advanced Python - [PUT HOURS HERE]
-- [ ] Python for data analysis - [PUT HOURS HERE]
+- [x] Python Essential Training - [2 hrs]
+- [x] Python OOP - [3 hrs]
+- [x] Advanced Python - [7 hrs]
+- [v] Python for data analysis - [1.5 Hrs] - processing
 - [ ] Python for visualisation - [PUT HOURS HERE]
 - [ ] Using Python for automation - [PUT HOURS HERE]
 - [ ] Data science foundation: Data Mining - [PUT HOURS HERE] 
