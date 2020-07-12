@@ -13,7 +13,7 @@ This repository is created for keeping track the Python learning procgress.
 - [x] Advanced Python - [7 hrs]
 - [x] Python for data analysis - [13 Hrs] - (95%) - ignore weather
 - [x] Python for visualisation - [2.5 hr] - similar to analysis and more simple than above course
-- [ ] Using Python for automation - [PUT HOURS HERE]
+- [v] Using Python for automation - [0 Hr]
 - [ ] Data science foundation: Data Mining - [PUT HOURS HERE] 
 
 ## Tasks
