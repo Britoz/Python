@@ -1,0 +1,50 @@
+2 Mining:
+    1 Sequence Mining
+        in time-ordered data, find events that typically precede or follow each other
+    2 Text Mining
+        in unstructured text data, find words and phrases that define voices and distinguish texts
+
+
+
+2 very general approaches to this data mining
+    1. Classical Statistics
+        Methods based on familiar statistics, typically transparent, possible to calculate by hand
+    2. Machine Learning
+        More complex methods, often opaque, require substanial computing power
+    3. (uncommon) Apriori Algorithm
+        For association analysis or 'market basket' analysis
+    4. (uncommon) Word Counts
+        Using word stems, handling stop words, and comparing frequencies
+
+
+2 General categories
+    1. Text Interfaces
+        Programming languages that use written commands; easy to share and repeat
+    2. Graphical Interfaces
+        Specialized applications that use menus, widgets, and virtual connections; easy-to-see process
+
+Reason for data reduction
+    1. Reduce Noise
+        Reduce distractions and meaningless information
+    2. Focus on Patterns
+        Make regularities easier to see by 'Zooming out'
+    3. Easier to interpret
+        Is easier to interpret and use larger patterns
+
+Algorithms for Data Reductions
+    1. Linear Methods
+        Straight lines through data; use linear equations
+            . Principal component analysis (PCA)
+            . Reduce number of variables
+            . Maximize variability in lower-dimensional space
+    2. Nonlinear Methods
+        For high-dimensional manifolds, use complex equations
+
+Couple of considerations about principal component analysis are:
+    1. Rotation:
+        Multiple components, rotated solutions, can be easier to interpret
+    2. Factor Analysis:
+        Factors are closely related but based on a different theory
+    3. Interpretability:
+        For human use, the ability to interpret is critical; less so far machine learning.
+        

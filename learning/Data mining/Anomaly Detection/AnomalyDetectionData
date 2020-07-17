@@ -1,0 +1,29 @@
+Univariate outliers
+- Variance/SD (Standard Deviation - based measure)
+    . Cases are several standard deviations away; Problematic.
+- Quartiles
+    . Distances are based on the interquartile range(IQR); most common.
+- Experience
+    . Common standards are used for unusual scores; personal experience.
+Box plot anatomy
+Bivariate outliers
+- Distance Measures
+    . Many choices, but usually ignore 2D visualization
+- Bivariate Normal Distribution
+    . Ellipses over scatterplots
+- Density plots
+
+Multivariate outliers
+1. Distance Measures
+    . Euclidean distance from center of dataset
+    . Mahalanobis distance
+    . Robust measures of distance
+2. Density Measures
+    . Local density of data in multidimensional space
+    . More flexible are robust
+    . Harder to describe
+ 
+Algorithms for Anomaly Detection
+. Visual or numerical analysis
+. Means-based or robust methods
+. Sensitivity vs. interpretability
