@@ -1,5 +1,5 @@
 ## Description
-This is a small project to practice different pieces of knowledge that have been learned in the last 2 weeks. The project covers best-practice in Python programming, data crawling, data analysis and visualisation. The idea for this project is that the learner will built a data pipeline to analyse the collected information related to COVID 19 from different online resources - Reference.
+This is a small project to practice different pieces of knowledge that have been learned in the last 2 weeks. The project covers best-practice in Python programming, data crawling, data analysis and visualisation. The idea for this project is that the learner will build a data pipeline to analyse the collected information related to COVID 19 from different online resources - Reference.
 
 ## Tasks
 - [ ] Crawl data from different online resources
