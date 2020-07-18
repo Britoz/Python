@@ -14,7 +14,7 @@ This repository is created for keeping track the Python learning procgress.
 - [x] Python for data analysis - [13 Hrs] - (95%) - ignore weather
 - [x] Python for visualisation - [2.5 hr] - similar to analysis and more simple than above course
 - [x] Using Python for automation - [4 Hrs]
-- [v] Data science foundation: Data Mining - [6 Hrs] - 80% 
+- [x] Data science foundation: Data Mining - [8 Hrs] 
 
 ## Tasks
 - [ ] Python programming bundle
